@@ -42,4 +42,4 @@ python3 arp_poison.py -t 192.168.1.100 -g 192.168.1.1
 
 - This script can disrupt network communication and potentially cause harm to devices on the network.
 
-- The reset() function provided in the script attempts to reset the ARP tables after the attack, but it might not work in all cases.
+- The 'reset()' function provided in the script attempts to reset the ARP tables after the attack, but it might not work in all cases.
